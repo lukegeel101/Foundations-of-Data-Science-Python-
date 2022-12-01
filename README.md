@@ -1,3 +1,3 @@
 # Foundations-of-Data-Science-Python-
-This repository contains my work from CICS 108 at UMass Amherst taught by professors Purity Mugambi
+This repository contains my work from CICS 108 at UMass Amherst taught by professors Purity Mugambi. 
 The field of Data Science encompasses methods, processes, and systems that enable the extraction of useful knowledge from data. Foundations of Data Science introduces core data science concepts including computational and inferential thinking, along with core data science skills including computer programming and statistical methods. This course presents these topics in the context of hands-on analysis of real-world data sets, including economic data, document collections, geographical data, and social networks. The course also explores social issues surrounding data analysis such as privacy and design.
